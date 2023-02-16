@@ -1,0 +1,10 @@
+C:\Users\Tintim\Code\26d38646-dc07-453e-93ef-1df7faa32c4a\RetSettlementDates.Domain\bin\Debug\netcoreapp3.1\RetSettlementDates.Domain.deps.json
+C:\Users\Tintim\Code\26d38646-dc07-453e-93ef-1df7faa32c4a\RetSettlementDates.Domain\bin\Debug\netcoreapp3.1\RetSettlementDates.Domain.dll
+C:\Users\Tintim\Code\26d38646-dc07-453e-93ef-1df7faa32c4a\RetSettlementDates.Domain\bin\Debug\netcoreapp3.1\RetSettlementDates.Domain.pdb
+C:\Users\Tintim\Code\26d38646-dc07-453e-93ef-1df7faa32c4a\RetSettlementDates.Domain\obj\Debug\netcoreapp3.1\RetSettlementDates.Domain.csproj.AssemblyReference.cache
+C:\Users\Tintim\Code\26d38646-dc07-453e-93ef-1df7faa32c4a\RetSettlementDates.Domain\obj\Debug\netcoreapp3.1\RetSettlementDates.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tintim\Code\26d38646-dc07-453e-93ef-1df7faa32c4a\RetSettlementDates.Domain\obj\Debug\netcoreapp3.1\RetSettlementDates.Domain.AssemblyInfoInputs.cache
+C:\Users\Tintim\Code\26d38646-dc07-453e-93ef-1df7faa32c4a\RetSettlementDates.Domain\obj\Debug\netcoreapp3.1\RetSettlementDates.Domain.AssemblyInfo.cs
+C:\Users\Tintim\Code\26d38646-dc07-453e-93ef-1df7faa32c4a\RetSettlementDates.Domain\obj\Debug\netcoreapp3.1\RetSettlementDates.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Tintim\Code\26d38646-dc07-453e-93ef-1df7faa32c4a\RetSettlementDates.Domain\obj\Debug\netcoreapp3.1\RetSettlementDates.Domain.dll
+C:\Users\Tintim\Code\26d38646-dc07-453e-93ef-1df7faa32c4a\RetSettlementDates.Domain\obj\Debug\netcoreapp3.1\RetSettlementDates.Domain.pdb

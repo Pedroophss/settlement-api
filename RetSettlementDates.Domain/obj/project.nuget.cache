@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1aOMdCkHLFqg4i/idOpgUJF8e+tURNTXUc306IANTG47TuulQtaKUX3XhHTkToaQLtiNDYg/oyZopdURZgxSXQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tintim\\Code\\26d38646-dc07-453e-93ef-1df7faa32c4a\\RetSettlementDates.Domain\\RetSettlementDates.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tintim\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
